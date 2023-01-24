@@ -13,13 +13,6 @@ answers = [
 
 ]
 
-
-# last question will be sin(2pi) because why not (answer is 0 ofc) and answers 
-# will only appear at 0 on the graph to make it possible for someone who dosent know trig to solve if they think about it enough
-
-
-
-
 # Initialize Pygame
 pygame.init()
 
